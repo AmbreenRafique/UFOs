@@ -15,7 +15,9 @@ by putting all All the UFO sighting data in a table with multipel filter buttons
 
     
  
-Analysing the data and creating a report has become easier by puuting all the information on a page.If we enter a state it will show all the sighting of that particuler state as shown in the picture below.
+Analysing the data and creating a report has become easier by puuting all the information on a page.If we enter a state it will show all the sightings of that particuler state as shown in the picture below.
+
+![states](https://user-images.githubusercontent.com/108497494/190474750-4e77926d-a5a3-49cb-b000-6ba374827a2d.jpg)
 
 
 
