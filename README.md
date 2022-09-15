@@ -10,11 +10,9 @@ the webpage looks good and user-friendly.
 by putting all All the UFO sighting data in a table with multipel filter buttons made it easy to read and analyse.
     They can filter data by entering particuler date or place even they will be able to sort by the shape of UFO.Following pictuer shows the look of the webpage and all the available filters.
     
-    <img width="1265" alt="page" src="https://user-images.githubusercontent.com/108497494/190473555-2afaa5cc-473b-4472-a80d-3b934b4ebeda.png">
-
+ 
 Analysing the data and creating a report has become easier by puuting all the information on a page.If we enter a state it will show all the sighting of that particuler state as shown in the picture below.
 
-<img width="1262" alt="filters" src="https://user-images.githubusercontent.com/108497494/190472406-dbf45f7c-7842-4d66-a58a-9705e267e059.png">
 
 
 ## Summary:
